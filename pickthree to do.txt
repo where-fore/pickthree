@@ -16,8 +16,15 @@ from there refocus and read/organize all then notes below into a selection of pa
 
 
 
+working notes
+-----------
+-----------
+font has whitespace at the top, either offset the font theme, or get a new font
 
 
+ui manager calls down to children
+game manager calls to combatants whose turn it is
+combatants signal to managers what they are doing
 
 
 
